@@ -1,4 +1,4 @@
-<h2> Oi, eu sou a Julia Mori </h2>
+<h2> Oi, eu sou a Julia Mori! </h2>
 
 - 🌱 I’m currently learning.. 
 - 📫 Contact me by email: jucmori@gmail.com
